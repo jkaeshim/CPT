@@ -1,0 +1,11 @@
+# CSP course meta data
+Unit1:
+  title: Movie Search functions
+  description:  Table of Contents for Movie search engines
+  start: 0
+  end: 3
+Unit2:
+  title: Learn Language
+  description: Learn (JavaScript|Python|Java).  Start Agile development process.
+  start: 4
+  end: 7

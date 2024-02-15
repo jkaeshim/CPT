@@ -1,0 +1,20 @@
+title: The Search
+description: "The Animes™"
+owner_name: The Animes
+github_username: jkaeshim
+github_repo: "Nighthawk-Pages"
+baseurl: "/Nighthawk-Pages"
+remote_theme: jekyll/minima
+minima:
+  social_links:
+    - { platform: github, user_url: "9A71C0E1-B815-43E6-BE09-FDE9E21C59C3IMG_7196.jpeg"}
+    - { platform: github, user_url: "https://github.com/Tirth-Thakkar"}
+    - { platform: github, user_url: "https://github.com/h4seeb-cmd"}
+# remote_theme: pages-themes/dinky@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
+future: true
